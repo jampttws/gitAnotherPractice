@@ -23,6 +23,7 @@
 1. Implement unittest
 1. Use Agile Development Process
 2. Read books 
-3. Waneiei
-4. Use Agile Development Process
-5. Use Scrum
+3. Use Agile Development Process
+4. Use Scrum
+
+jamp yeahh
