@@ -21,7 +21,7 @@
     return a + b
     ```
 
-mimint mai naruk baeeeee
+mimint nakeid baeeeee
 
 1. Implement unittest
 1. Use Agile Development Process
